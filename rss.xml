@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SaveTheMoon]]></title>
         <description><![CDATA[SaveTheMoon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/savethemoon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:37:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 20:39:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/savethemoon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post Number 1]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7f03f1e-30a8-48ea-a489-017ded6bd97b.jpg">]]></description>
+            <link>https://thegrid.ai/savethemoon/test-post-number-1/index.html</link>
+            <guid isPermaLink="false">2a5c8fdc-a44d-4b60-8fcd-cb09cbaaddf5</guid>
+            <pubDate>Wed, 20 Apr 2016 20:39:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9b12c3b-ca8b-47a5-96a8-42b83e67b4dd.jpg">]]></description>
-            <link>undefinedthis-be-test-post-3-actually-2/index.html</link>
+            <link>https://thegrid.ai/savethemoon/this-be-test-post-3-actually-2/index.html</link>
             <guid isPermaLink="false">10648136-da03-4aea-8378-7494bf9c9afe</guid>
             <pubDate>Wed, 20 Apr 2016 20:37:53 GMT</pubDate>
         </item>
