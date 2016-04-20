@@ -1,6 +1,6 @@
 name: SaveTheMoon
 favicon: null
-layout_spectrum: 0.8266429100185633
+layout_spectrum: 0.97424
 typography_spectrum: 0.3598508832510561
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.2872713322285563
+  brandStrength: 0.5
   lightness: 0.43219209741801023
   saturation: 0.4636830519884825
   rhythmicContrast: 0.06778704351745546
